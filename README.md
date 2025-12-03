@@ -80,3 +80,8 @@ This is a Neovim configuration using [Lazy.nvim](https://github.com/folke/lazy.n
 - **System clipboard:** Integrated with system clipboard for seamless copy/paste
 - **True colors:** Enabled for better color accuracy in supported terminals
 - **Autosave:** Files automatically save 1 second after changes (on InsertLeave and TextChanged events)
+
+### To be added
+- [ ] Autosuggest like Copilot in VSCode  
+- [ ] AI Chat
+- [ ] Sync colorscheme with wallust, while keeping the texts color from tokyonight colorscheme
