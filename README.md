@@ -1,4 +1,7 @@
-# Neovim Configuration
+# KmilleNvim
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) 
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+<a href="https://neovim.io/"><img src="https://neovim.io/logos/neovim-mark-flat.png" align="right" width="80"/></a>
 
 This is a Neovim configuration using [Lazy.nvim](https://github.com/folke/lazy.nvim) as the plugin manager, optimized for PHP/Laravel development with modern IDE-like features.
 
@@ -82,6 +85,6 @@ This is a Neovim configuration using [Lazy.nvim](https://github.com/folke/lazy.n
 - **Autosave:** Files automatically save 1 second after changes (on InsertLeave and TextChanged events)
 
 ### To be added
-- [ ] Autosuggest like Copilot in VSCode  
-- [ ] AI Chat
-- [ ] Sync colorscheme with wallust, while keeping the texts color from tokyonight colorscheme
+- [] Autosuggest like Copilot in VSCode  
+- [] AI Chat
+- [] Sync colorscheme with wallust, while keeping the texts color from tokyonight colorscheme
